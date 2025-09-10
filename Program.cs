@@ -10,6 +10,7 @@ namespace seman3ejemplo1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
