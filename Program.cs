@@ -23,7 +23,7 @@ namespace seman3ejemplo1 {
 
             while (true)
             {
-                Console.WriteLine("\n--- JUEGO DE GRANJA ---");
+                Console.WriteLine("--- JUEGO DE GRANJA ---");
                 Console.WriteLine($"Dinero: {dinero}");
                 Console.WriteLine("1. Comprar semilla y plantar");
                 Console.WriteLine("2. Expandir granja");

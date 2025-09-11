@@ -8,14 +8,14 @@ namespace seman3ejemplo1
 {
      internal class Planta
      {
-        public string Nombre { get; set; }
-        public int TiempoDeVida { get; set; }
-        public int Frutos { get; set; }
-        public int ValorSemilla { get; set; }
-        public int ValorProducto { get; set; }
-        public int TiempoRestante { get; set; }
+        public string Nombre {get;set;}
+        public int TiempoDeVida {get;set;}
+        public int Frutos {get;set;}
+        public int ValorSemilla {get;set;}
+        public int ValorProducto {get;set;}
+        public int TiempoRestante {get;set;}
 
-        public Planta(string nombre, int vida, int frutos, int valorSemilla, int valorProducto)
+        public Planta(string nombre,int vida,int frutos,int valorSemilla,int valorProducto)
         {
             Nombre = nombre;
             TiempoDeVida = vida;
