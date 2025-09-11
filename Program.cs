@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace seman3ejemplo1
 {
-    internal class Program
+    internal class program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola Mundo");
-        }
     }
 }
